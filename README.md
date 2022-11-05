@@ -1,2 +1,2 @@
-# IB-Music-Technology-CP
+# IB-Music-Technology
  Portable version of BlameJack
